@@ -144,7 +144,7 @@ Both Gaussian and Lorentzian models are supported for comparative analysis.
 
 ## Author
 
-Javier Axayácatl Melchor Hernández
+Adriel Yulissa Hernández Albarrán
 
 Background in Physics with experience in:
 
