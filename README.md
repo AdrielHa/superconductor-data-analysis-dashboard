@@ -86,7 +86,7 @@ This project was developed as part of superconductivity data analysis research w
 Clone the repository:
 
 ```bash
-git clone https://github.com/Axahdz/superconductor-data-analysis-dashboard.git
+git clone https://github.com/AdrielHa/superconductor-data-analysis-dashboard.git
 cd superconductor-data-analysis-dashboard
 
 Install dependencies:
